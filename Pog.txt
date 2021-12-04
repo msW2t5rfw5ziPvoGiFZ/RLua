@@ -1,1 +1,0 @@
-game.Players.LocalPlayer:Kick('Script is down because Reabb is rewriting it');
