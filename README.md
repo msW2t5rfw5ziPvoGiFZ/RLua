@@ -9,7 +9,7 @@ Simple Blox's Fruits and YBA script I made cause I am bored, this is completely 
 
 Report any bugs to me on Discord Reabb#2203
 
---[
+-->[
 READ ME
 This ONLY works on Synapse X not KRNL or Scriptware, etc....
-]
+]<--
