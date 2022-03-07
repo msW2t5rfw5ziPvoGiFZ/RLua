@@ -1,7 +1,7 @@
 local library = {}
 
 library.theme = {
-    MainClr = Color3.fromRGB(255, 255, 255),
+    MainClr = Color3.fromRGB(79, 255, 51 ),
     SecondClr = Color3.fromRGB(231, 86, 94),
     ThirdClr = Color3.fromRGB(32, 44, 52),
     BackgroundClr = Color3.fromRGB(21, 24, 25),
