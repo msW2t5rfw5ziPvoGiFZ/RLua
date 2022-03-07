@@ -1,12 +1,12 @@
 local library = {}
 
 library.theme = {
-    MainClr = Color3.fromRGB(79, 255, 51 ),
-    SecondClr = Color3.fromRGB(231, 86, 94),
-    ThirdClr = Color3.fromRGB(32, 44, 52),
-    BackgroundClr = Color3.fromRGB(21, 24, 25),
-    TextClr = Color3.fromRGB(255, 255, 255),
-    SecondTextClr = Color3.fromRGB(104, 104, 104)
+    MainClr = Color3.fromRGB(79, 255, 51),
+    SecondClr = Color3.fromRGB(79, 255, 51),
+    ThirdClr = Color3.fromRGB(79, 255, 51),
+    BackgroundClr = Color3.fromRGB(79, 255, 51),
+    TextClr = Color3.fromRGB(79, 255, 51),
+    SecondTextClr = Color3.fromRGB(79, 255, 51)
 }
 local config = {}
 local placeID = tostring(game.PlaceId)
