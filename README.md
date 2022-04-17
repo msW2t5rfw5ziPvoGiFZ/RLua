@@ -1,4 +1,6 @@
 # RLua
+USE SCRIPTS AT YOUR OWN RISK I HAVEN'T UPDATED THEM IN MONTHS
+
 Every Roblox Anime game exploit script I ever made will be found here besides my private scripts 👀
 
 Blox Fruit's STATUS: Undetected
