@@ -9,10 +9,6 @@ YBA STATUS: Undetected
 
 ASTD STATUS: Undetected(Bruh ASTD doesn't even have a anti cheat lol)
 
-Mount Everest STATUS: Undetected (NOTE DUE TO Boronide obfuscation it somehow BROKE my tween tp function so the teleport to camp 1 feature won't work. A fix is being implemented soon)
-
-ABA STATUS: Undetected
-
 Simple Blox's Fruits, ASTD, Mount Everest, ABA and YBA script I made cause I am bored, this is completely UNDETECTED the only way you can get banned would be if someone recorded you and reported you on the offical Blox Fruit's and YBA discord server so I would highly recommend you to invest on buying and using a private server.
 
 Report any bugs to me on Discord Reabb#2203
