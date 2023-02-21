@@ -2,7 +2,7 @@
 
 Every Roblox Anime game exploit script I ever made will be found here besides my private scripts 👀
 
-Blox Fruit's STATUS: Oudated, don't use
+Blox Fruit's STATUS: Outdated, don't use
 
 ASTD STATUS: Oudated/Undetected(Bruh ASTD doesn't even have a anti cheat lol)
 
