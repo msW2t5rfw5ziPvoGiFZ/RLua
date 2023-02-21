@@ -1,6 +1,6 @@
 local Player = game:GetService("Players").LocalPlayer
 
-getgenv().Toggle = true
+_G.Toggle = true
 
 spawn(function()
    while task.wait() and Toggle do
